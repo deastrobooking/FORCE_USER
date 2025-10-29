@@ -2,6 +2,13 @@
 A collection of hacking tools for testing Windows, Github products. 
 Absolutely! Welcome to the world of ethical hacking and cybersecurity research. Here's a comprehensive list of excellent resources to get you started as a white hat developer.
 
+- [Scope](https://bounty.github.com/index.html#scope)
+- [Targets](https://bounty.github.com/#targets)
+- [RULES](https://bounty.github.com/#rules)
+- [REWARDS](https://bounty.github.com/index.html#rewards)
+- [Getting started with CopilotCHat](https://docs.github.com/en/copilot/how-tos/chat-with-copilot)
+- [FAQS](https://bounty.github.com/#faqs)
+- 
 ## 🎯 Foundational Knowledge
 
 **Web Application Security**
@@ -113,6 +120,3 @@ Once you're comfortable:
 - Write clear, detailed reports
 - Be patient and persistent
 
-Remember: The best security researchers are continuous learners. Start with the fundamentals, build a solid foundation, and progress systematically. The field rewards depth of understanding over quick tricks.
-
-Would you like me to elaborate on any of these areas or suggest a specific learning path based on your current experience level?
